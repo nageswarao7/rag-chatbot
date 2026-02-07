@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pydantic-settings
+google-genai
+chromadb
+sentence-transformers
+langchain-text-splitters
+streamlit
+python-dotenv
+httpx
+requests
+pymupdf
+python-docx
