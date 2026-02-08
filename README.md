@@ -279,7 +279,6 @@ spec:
 ## Project Structure
 
 ```
-Assessment/
 ├── backend/
 │   ├── main.py           # FastAPI app with endpoints
 │   ├── config.py         # Configuration management
@@ -289,9 +288,7 @@ Assessment/
 │   └── cache.py          # LRU cache implementation
 ├── frontend/
 │   └── app.py            # Streamlit chat UI
-├── scripts/
-│   ├── download_wikipedia.py  # Download 100 docs
-│   └── ingest_data.py         # Batch ingestion
+Batch ingestion
 ├── data/
 │   ├── chromadb/         # Persistent vector store
 │   └── documents/        # Document storage
