@@ -256,7 +256,7 @@ spec:
 | Component | Strategy | Implementation |
 |-----------|----------|----------------|
 | API | Horizontal Pod Autoscaler | Scale 1-10 replicas based on CPU |
-| Vector DB | Azure Cosmos DB for MongoDB | Managed, scalable vector search |
+| Vector DB | Azure | Managed, scalable vector search |
 | Cache | Azure Cache for Redis | Distributed caching |
 | LLM | Rate limiting + queue | Prevent API overload |
 
